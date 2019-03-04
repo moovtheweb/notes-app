@@ -1,0 +1,7 @@
+this file was created by Node.js!
+Now counting - 1
+2
+3
+4
+5
+6
